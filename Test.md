@@ -24,3 +24,19 @@ _Many desktop publishing packages and web page editors now use Lorem Ipsum as th
 
 ![ASU-Logo](https://github.com/BoulosNaser/SDD/assets/149297417/18711373-8204-4028-a595-41d818830c6c)
 
+
+To do it like a code `scanner file`
+
+
+|students name| id number|
+|--------|---------|
+|Boulos Naser| 202210295|
+
+
+- [x] Task1
+- [ ] Task2
+
+---
+
+> This is a blockquote
+
