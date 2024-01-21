@@ -23,10 +23,11 @@ _Many desktop publishing packages and web page editors now use Lorem Ipsum as th
 [Visit google](https://admission.asu.edu.jo/assets/media/image/ASU-Logo.png)
 
 ![ASU-Logo](https://github.com/BoulosNaser/SDD/assets/149297417/18711373-8204-4028-a595-41d818830c6c)
-![dashboard]("C:\Users\Boulos Nasser\OneDrive\Pictures\Screenshots\dashbord.png")
+
 
 To do it like a code `scanner file`
 
+![dashbord](https://github.com/BoulosNaser/SDD/assets/149297417/7ac30ceb-8cc8-43a8-8687-65dfed0781d7)
 
 |students name| id number|
 |--------|---------|
