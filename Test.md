@@ -26,7 +26,7 @@ _Many desktop publishing packages and web page editors now use Lorem Ipsum as th
 
 
 To do it like a code `scanner file`
-
+"C:\Users\Boulos Nasser\Downloads\2024-01-22 14-39-15.mp4"
 ![dashbord](https://github.com/BoulosNaser/SDD/assets/149297417/7ac30ceb-8cc8-43a8-8687-65dfed0781d7)
 
 |students name| id number|
